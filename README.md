@@ -1,2 +1,2 @@
 # Dice
-Javascript 101
+JavaScript 101
